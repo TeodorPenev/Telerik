@@ -1,0 +1,6 @@
+D:\Documents\BI\Telerik\2.Tипове данни и променливи\HomeWork\HomeWorkPrimitiveDataTypesAndVariables\06. BooleanGender\bin\Debug\_06.BooleanGender.exe.config
+D:\Documents\BI\Telerik\2.Tипове данни и променливи\HomeWork\HomeWorkPrimitiveDataTypesAndVariables\06. BooleanGender\obj\Debug\06. BooleanGender.csprojResolveAssemblyReference.cache
+D:\Documents\BI\Telerik\2.Tипове данни и променливи\HomeWork\HomeWorkPrimitiveDataTypesAndVariables\06. BooleanGender\bin\Debug\_06.BooleanGender.exe
+D:\Documents\BI\Telerik\2.Tипове данни и променливи\HomeWork\HomeWorkPrimitiveDataTypesAndVariables\06. BooleanGender\bin\Debug\_06.BooleanGender.pdb
+D:\Documents\BI\Telerik\2.Tипове данни и променливи\HomeWork\HomeWorkPrimitiveDataTypesAndVariables\06. BooleanGender\obj\Debug\_06.BooleanGender.exe
+D:\Documents\BI\Telerik\2.Tипове данни и променливи\HomeWork\HomeWorkPrimitiveDataTypesAndVariables\06. BooleanGender\obj\Debug\_06.BooleanGender.pdb

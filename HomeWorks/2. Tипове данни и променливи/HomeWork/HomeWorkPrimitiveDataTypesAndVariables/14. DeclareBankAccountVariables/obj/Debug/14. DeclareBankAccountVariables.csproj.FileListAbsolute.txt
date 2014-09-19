@@ -1,0 +1,6 @@
+D:\Documents\BI\Telerik\2.Tипове данни и променливи\HomeWork\HomeWorkPrimitiveDataTypesAndVariables\14. DeclareBankAccountVariables\bin\Debug\_14.DeclareBankAccountVariables.exe.config
+D:\Documents\BI\Telerik\2.Tипове данни и променливи\HomeWork\HomeWorkPrimitiveDataTypesAndVariables\14. DeclareBankAccountVariables\obj\Debug\14. DeclareBankAccountVariables.csprojResolveAssemblyReference.cache
+D:\Documents\BI\Telerik\2.Tипове данни и променливи\HomeWork\HomeWorkPrimitiveDataTypesAndVariables\14. DeclareBankAccountVariables\bin\Debug\_14.DeclareBankAccountVariables.exe
+D:\Documents\BI\Telerik\2.Tипове данни и променливи\HomeWork\HomeWorkPrimitiveDataTypesAndVariables\14. DeclareBankAccountVariables\bin\Debug\_14.DeclareBankAccountVariables.pdb
+D:\Documents\BI\Telerik\2.Tипове данни и променливи\HomeWork\HomeWorkPrimitiveDataTypesAndVariables\14. DeclareBankAccountVariables\obj\Debug\_14.DeclareBankAccountVariables.exe
+D:\Documents\BI\Telerik\2.Tипове данни и променливи\HomeWork\HomeWorkPrimitiveDataTypesAndVariables\14. DeclareBankAccountVariables\obj\Debug\_14.DeclareBankAccountVariables.pdb

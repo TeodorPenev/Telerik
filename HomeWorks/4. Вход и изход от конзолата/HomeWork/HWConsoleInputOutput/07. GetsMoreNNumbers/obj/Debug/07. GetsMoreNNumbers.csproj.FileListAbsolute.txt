@@ -1,0 +1,5 @@
+D:\Documents\BI\Telerik\4. Вход и изход от конзолата\HomeWork\HWConsoleInputOutput\07. GetsMoreNNumbers\bin\Debug\_07.GetsMoreNNumbers.exe.config
+D:\Documents\BI\Telerik\4. Вход и изход от конзолата\HomeWork\HWConsoleInputOutput\07. GetsMoreNNumbers\bin\Debug\_07.GetsMoreNNumbers.exe
+D:\Documents\BI\Telerik\4. Вход и изход от конзолата\HomeWork\HWConsoleInputOutput\07. GetsMoreNNumbers\bin\Debug\_07.GetsMoreNNumbers.pdb
+D:\Documents\BI\Telerik\4. Вход и изход от конзолата\HomeWork\HWConsoleInputOutput\07. GetsMoreNNumbers\obj\Debug\_07.GetsMoreNNumbers.exe
+D:\Documents\BI\Telerik\4. Вход и изход от конзолата\HomeWork\HWConsoleInputOutput\07. GetsMoreNNumbers\obj\Debug\_07.GetsMoreNNumbers.pdb

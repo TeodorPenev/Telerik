@@ -1,0 +1,5 @@
+D:\Documents\BI\Telerik\2.Tипове данни и променливи\HomeWork\HomeWorkPrimitiveDataTypesAndVariables\11. IntExchangeValues\bin\Debug\_11.IntExchangeValues.exe.config
+D:\Documents\BI\Telerik\2.Tипове данни и променливи\HomeWork\HomeWorkPrimitiveDataTypesAndVariables\11. IntExchangeValues\bin\Debug\_11.IntExchangeValues.exe
+D:\Documents\BI\Telerik\2.Tипове данни и променливи\HomeWork\HomeWorkPrimitiveDataTypesAndVariables\11. IntExchangeValues\bin\Debug\_11.IntExchangeValues.pdb
+D:\Documents\BI\Telerik\2.Tипове данни и променливи\HomeWork\HomeWorkPrimitiveDataTypesAndVariables\11. IntExchangeValues\obj\Debug\_11.IntExchangeValues.exe
+D:\Documents\BI\Telerik\2.Tипове данни и променливи\HomeWork\HomeWorkPrimitiveDataTypesAndVariables\11. IntExchangeValues\obj\Debug\_11.IntExchangeValues.pdb

@@ -1,0 +1,11 @@
+C:\Users\Milcho\Desktop\Conditional-Statements\05. DigitTOWord\bin\Debug\_05.DigitTOWord.exe.config
+C:\Users\Milcho\Desktop\Conditional-Statements\05. DigitTOWord\bin\Debug\_05.DigitTOWord.exe
+C:\Users\Milcho\Desktop\Conditional-Statements\05. DigitTOWord\bin\Debug\_05.DigitTOWord.pdb
+C:\Users\Milcho\Desktop\Conditional-Statements\05. DigitTOWord\obj\Debug\_05.DigitTOWord.exe
+C:\Users\Milcho\Desktop\Conditional-Statements\05. DigitTOWord\obj\Debug\_05.DigitTOWord.pdb
+C:\Users\Teodor\Desktop\Conditional-Statements\05. DigitTOWord\bin\Debug\_05.DigitTOWord.exe.config
+C:\Users\Teodor\Desktop\Conditional-Statements\05. DigitTOWord\obj\Debug\_05.DigitTOWord.exe
+C:\Users\Teodor\Desktop\Conditional-Statements\05. DigitTOWord\obj\Debug\_05.DigitTOWord.pdb
+D:\Documents\BI\Telerik\5. Условни конструкции\HomeWork\HWConditionalStatements\05. DigitTOWord\bin\Debug\_05.DigitTOWord.exe.config
+D:\Documents\BI\Telerik\5. Условни конструкции\HomeWork\HWConditionalStatements\05. DigitTOWord\obj\Debug\_05.DigitTOWord.exe
+D:\Documents\BI\Telerik\5. Условни конструкции\HomeWork\HWConditionalStatements\05. DigitTOWord\obj\Debug\_05.DigitTOWord.pdb

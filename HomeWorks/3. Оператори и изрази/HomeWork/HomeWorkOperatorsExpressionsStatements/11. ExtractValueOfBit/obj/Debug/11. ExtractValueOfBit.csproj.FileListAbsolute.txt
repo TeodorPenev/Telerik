@@ -1,0 +1,6 @@
+D:\Documents\BI\Telerik\3. Оператори и изрази\HomeWork\HomeWorkOperatorsExpressionsStatements\11. ExtractValueOfBit\bin\Debug\_11.ExtractValueOfBit.exe.config
+D:\Documents\BI\Telerik\3. Оператори и изрази\HomeWork\HomeWorkOperatorsExpressionsStatements\11. ExtractValueOfBit\bin\Debug\_11.ExtractValueOfBit.exe
+D:\Documents\BI\Telerik\3. Оператори и изрази\HomeWork\HomeWorkOperatorsExpressionsStatements\11. ExtractValueOfBit\bin\Debug\_11.ExtractValueOfBit.pdb
+D:\Documents\BI\Telerik\3. Оператори и изрази\HomeWork\HomeWorkOperatorsExpressionsStatements\11. ExtractValueOfBit\obj\Debug\11. ExtractValueOfBit.csprojResolveAssemblyReference.cache
+D:\Documents\BI\Telerik\3. Оператори и изрази\HomeWork\HomeWorkOperatorsExpressionsStatements\11. ExtractValueOfBit\obj\Debug\_11.ExtractValueOfBit.exe
+D:\Documents\BI\Telerik\3. Оператори и изрази\HomeWork\HomeWorkOperatorsExpressionsStatements\11. ExtractValueOfBit\obj\Debug\_11.ExtractValueOfBit.pdb

@@ -1,0 +1,6 @@
+D:\Documents\BI\Telerik\5. Условни конструкции\HomeWork\01.ProblemAmericanPie\01.ProblemAmericanPie\bin\Debug\01.ProblemAmericanPie.exe.config
+D:\Documents\BI\Telerik\5. Условни конструкции\HomeWork\01.ProblemAmericanPie\01.ProblemAmericanPie\bin\Debug\01.ProblemAmericanPie.exe
+D:\Documents\BI\Telerik\5. Условни конструкции\HomeWork\01.ProblemAmericanPie\01.ProblemAmericanPie\bin\Debug\01.ProblemAmericanPie.pdb
+D:\Documents\BI\Telerik\5. Условни конструкции\HomeWork\01.ProblemAmericanPie\01.ProblemAmericanPie\obj\Debug\01.ProblemAmericanPie.csprojResolveAssemblyReference.cache
+D:\Documents\BI\Telerik\5. Условни конструкции\HomeWork\01.ProblemAmericanPie\01.ProblemAmericanPie\obj\Debug\01.ProblemAmericanPie.exe
+D:\Documents\BI\Telerik\5. Условни конструкции\HomeWork\01.ProblemAmericanPie\01.ProblemAmericanPie\obj\Debug\01.ProblemAmericanPie.pdb

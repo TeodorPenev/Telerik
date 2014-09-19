@@ -1,0 +1,6 @@
+D:\Documents\BI\Telerik\4. Вход и изход от конзолата\HomeWork\HWConsoleInputOutput\10. CalcTheSumWithAccuracy\bin\Debug\_10.CalcTheSumWithAccuracy.exe.config
+D:\Documents\BI\Telerik\4. Вход и изход от конзолата\HomeWork\HWConsoleInputOutput\10. CalcTheSumWithAccuracy\bin\Debug\_10.CalcTheSumWithAccuracy.exe
+D:\Documents\BI\Telerik\4. Вход и изход от конзолата\HomeWork\HWConsoleInputOutput\10. CalcTheSumWithAccuracy\bin\Debug\_10.CalcTheSumWithAccuracy.pdb
+D:\Documents\BI\Telerik\4. Вход и изход от конзолата\HomeWork\HWConsoleInputOutput\10. CalcTheSumWithAccuracy\obj\Debug\10. CalcTheSumWithAccuracy.csprojResolveAssemblyReference.cache
+D:\Documents\BI\Telerik\4. Вход и изход от конзолата\HomeWork\HWConsoleInputOutput\10. CalcTheSumWithAccuracy\obj\Debug\_10.CalcTheSumWithAccuracy.exe
+D:\Documents\BI\Telerik\4. Вход и изход от конзолата\HomeWork\HWConsoleInputOutput\10. CalcTheSumWithAccuracy\obj\Debug\_10.CalcTheSumWithAccuracy.pdb

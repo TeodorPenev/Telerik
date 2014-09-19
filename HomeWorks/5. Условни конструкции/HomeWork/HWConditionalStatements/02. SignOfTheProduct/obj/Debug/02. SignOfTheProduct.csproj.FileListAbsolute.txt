@@ -1,0 +1,6 @@
+D:\Documents\BI\Telerik\5. Условни конструкции\HomeWork\HWConditionalStatements\02. SignOfTheProduct\bin\Debug\_02.SignOfTheProduct.exe.config
+D:\Documents\BI\Telerik\5. Условни конструкции\HomeWork\HWConditionalStatements\02. SignOfTheProduct\obj\Debug\02. SignOfTheProduct.csprojResolveAssemblyReference.cache
+D:\Documents\BI\Telerik\5. Условни конструкции\HomeWork\HWConditionalStatements\02. SignOfTheProduct\bin\Debug\_02.SignOfTheProduct.exe
+D:\Documents\BI\Telerik\5. Условни конструкции\HomeWork\HWConditionalStatements\02. SignOfTheProduct\bin\Debug\_02.SignOfTheProduct.pdb
+D:\Documents\BI\Telerik\5. Условни конструкции\HomeWork\HWConditionalStatements\02. SignOfTheProduct\obj\Debug\_02.SignOfTheProduct.exe
+D:\Documents\BI\Telerik\5. Условни конструкции\HomeWork\HWConditionalStatements\02. SignOfTheProduct\obj\Debug\_02.SignOfTheProduct.pdb

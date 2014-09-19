@@ -1,0 +1,12 @@
+C:\Users\Milcho\Desktop\Conditional-Statements\06. QuadraticEquation\bin\Debug\_06.QuadraticEquation.exe.config
+C:\Users\Milcho\Desktop\Conditional-Statements\06. QuadraticEquation\bin\Debug\_06.QuadraticEquation.exe
+C:\Users\Milcho\Desktop\Conditional-Statements\06. QuadraticEquation\bin\Debug\_06.QuadraticEquation.pdb
+C:\Users\Milcho\Desktop\Conditional-Statements\06. QuadraticEquation\obj\Debug\_06.QuadraticEquation.exe
+C:\Users\Milcho\Desktop\Conditional-Statements\06. QuadraticEquation\obj\Debug\_06.QuadraticEquation.pdb
+C:\Users\Milcho\Desktop\Conditional-Statements\06. QuadraticEquation\obj\Debug\06. QuadraticEquation.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\Conditional-Statements\06. QuadraticEquation\bin\Debug\_06.QuadraticEquation.exe.config
+C:\Users\Teodor\Desktop\Conditional-Statements\06. QuadraticEquation\obj\Debug\_06.QuadraticEquation.exe
+C:\Users\Teodor\Desktop\Conditional-Statements\06. QuadraticEquation\obj\Debug\_06.QuadraticEquation.pdb
+D:\Documents\BI\Telerik\5. Условни конструкции\HomeWork\HWConditionalStatements\06. QuadraticEquation\bin\Debug\_06.QuadraticEquation.exe.config
+D:\Documents\BI\Telerik\5. Условни конструкции\HomeWork\HWConditionalStatements\06. QuadraticEquation\obj\Debug\_06.QuadraticEquation.exe
+D:\Documents\BI\Telerik\5. Условни конструкции\HomeWork\HWConditionalStatements\06. QuadraticEquation\obj\Debug\_06.QuadraticEquation.pdb

@@ -1,0 +1,5 @@
+D:\Documents\BI\Telerik\4. Вход и изход от конзолата\HomeWork\HWConsoleInputOutput\02. PerimeterAndAreaofCircle\bin\Debug\_02.PerimeterAndAreaofCircle.exe.config
+D:\Documents\BI\Telerik\4. Вход и изход от конзолата\HomeWork\HWConsoleInputOutput\02. PerimeterAndAreaofCircle\bin\Debug\_02.PerimeterAndAreaofCircle.exe
+D:\Documents\BI\Telerik\4. Вход и изход от конзолата\HomeWork\HWConsoleInputOutput\02. PerimeterAndAreaofCircle\bin\Debug\_02.PerimeterAndAreaofCircle.pdb
+D:\Documents\BI\Telerik\4. Вход и изход от конзолата\HomeWork\HWConsoleInputOutput\02. PerimeterAndAreaofCircle\obj\Debug\_02.PerimeterAndAreaofCircle.exe
+D:\Documents\BI\Telerik\4. Вход и изход от конзолата\HomeWork\HWConsoleInputOutput\02. PerimeterAndAreaofCircle\obj\Debug\_02.PerimeterAndAreaofCircle.pdb

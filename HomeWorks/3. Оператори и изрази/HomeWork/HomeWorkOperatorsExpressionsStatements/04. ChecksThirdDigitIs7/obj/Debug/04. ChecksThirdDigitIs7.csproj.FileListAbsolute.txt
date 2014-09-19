@@ -1,0 +1,6 @@
+D:\Documents\BI\Telerik\3. Оператори и изрази\HomeWork\HomeWorkOperatorsExpressionsStatements\04. ChecksThirdDigitIs7\bin\Debug\_04.ChecksThirdDigitIs7.exe.config
+D:\Documents\BI\Telerik\3. Оператори и изрази\HomeWork\HomeWorkOperatorsExpressionsStatements\04. ChecksThirdDigitIs7\bin\Debug\_04.ChecksThirdDigitIs7.exe
+D:\Documents\BI\Telerik\3. Оператори и изрази\HomeWork\HomeWorkOperatorsExpressionsStatements\04. ChecksThirdDigitIs7\bin\Debug\_04.ChecksThirdDigitIs7.pdb
+D:\Documents\BI\Telerik\3. Оператори и изрази\HomeWork\HomeWorkOperatorsExpressionsStatements\04. ChecksThirdDigitIs7\obj\Debug\04. ChecksThirdDigitIs7.csprojResolveAssemblyReference.cache
+D:\Documents\BI\Telerik\3. Оператори и изрази\HomeWork\HomeWorkOperatorsExpressionsStatements\04. ChecksThirdDigitIs7\obj\Debug\_04.ChecksThirdDigitIs7.exe
+D:\Documents\BI\Telerik\3. Оператори и изрази\HomeWork\HomeWorkOperatorsExpressionsStatements\04. ChecksThirdDigitIs7\obj\Debug\_04.ChecksThirdDigitIs7.pdb

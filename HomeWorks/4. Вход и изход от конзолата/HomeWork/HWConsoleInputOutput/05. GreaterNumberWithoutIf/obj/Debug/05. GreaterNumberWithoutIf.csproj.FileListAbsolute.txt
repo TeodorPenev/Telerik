@@ -1,0 +1,5 @@
+D:\Documents\BI\Telerik\4. Вход и изход от конзолата\HomeWork\HWConsoleInputOutput\05. GreaterNumberWithoutIf\bin\Debug\_05.GreaterNumberWithoutIf.exe.config
+D:\Documents\BI\Telerik\4. Вход и изход от конзолата\HomeWork\HWConsoleInputOutput\05. GreaterNumberWithoutIf\bin\Debug\_05.GreaterNumberWithoutIf.exe
+D:\Documents\BI\Telerik\4. Вход и изход от конзолата\HomeWork\HWConsoleInputOutput\05. GreaterNumberWithoutIf\bin\Debug\_05.GreaterNumberWithoutIf.pdb
+D:\Documents\BI\Telerik\4. Вход и изход от конзолата\HomeWork\HWConsoleInputOutput\05. GreaterNumberWithoutIf\obj\Debug\_05.GreaterNumberWithoutIf.exe
+D:\Documents\BI\Telerik\4. Вход и изход от конзолата\HomeWork\HWConsoleInputOutput\05. GreaterNumberWithoutIf\obj\Debug\_05.GreaterNumberWithoutIf.pdb

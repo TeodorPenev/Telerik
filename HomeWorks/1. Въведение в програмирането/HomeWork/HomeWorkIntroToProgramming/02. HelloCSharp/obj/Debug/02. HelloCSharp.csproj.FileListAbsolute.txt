@@ -1,0 +1,6 @@
+D:\Documents\BI\Telerik\1.Въведение в програмирането\HomeWork\HomeWorkIntroToProgramming\1. HelloCSharp\bin\Debug\_1.HelloCSharp.exe.config
+D:\Documents\BI\Telerik\1.Въведение в програмирането\HomeWork\HomeWorkIntroToProgramming\1. HelloCSharp\obj\Debug\_1.HelloCSharp.exe
+D:\Documents\BI\Telerik\1.Въведение в програмирането\HomeWork\HomeWorkIntroToProgramming\1. HelloCSharp\obj\Debug\_1.HelloCSharp.pdb
+D:\Documents\BI\Telerik\1.Въведение в програмирането\HomeWork\HomeWorkIntroToProgramming\1. HelloCSharp\bin\Debug\_02.HelloCSharp.exe.config
+D:\Documents\BI\Telerik\1.Въведение в програмирането\HomeWork\HomeWorkIntroToProgramming\1. HelloCSharp\bin\Debug\_03.HelloCSharp.exe.config
+D:\Documents\BI\Telerik\1.Въведение в програмирането\HomeWork\HomeWorkIntroToProgramming\02. HelloCSharp\bin\Debug\_02.HelloCSharp.exe.config

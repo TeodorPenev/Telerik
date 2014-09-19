@@ -1,0 +1,6 @@
+D:\Documents\BI\Telerik\4. Вход и изход от конзолата\HomeWork\HWConsoleInputOutput\08. PrintsAllNumbersInInterval\bin\Debug\_08.PrintsAllNumbersInInterval.exe.config
+D:\Documents\BI\Telerik\4. Вход и изход от конзолата\HomeWork\HWConsoleInputOutput\08. PrintsAllNumbersInInterval\bin\Debug\_08.PrintsAllNumbersInInterval.exe
+D:\Documents\BI\Telerik\4. Вход и изход от конзолата\HomeWork\HWConsoleInputOutput\08. PrintsAllNumbersInInterval\bin\Debug\_08.PrintsAllNumbersInInterval.pdb
+D:\Documents\BI\Telerik\4. Вход и изход от конзолата\HomeWork\HWConsoleInputOutput\08. PrintsAllNumbersInInterval\obj\Debug\08. PrintsAllNumbersInInterval.csprojResolveAssemblyReference.cache
+D:\Documents\BI\Telerik\4. Вход и изход от конзолата\HomeWork\HWConsoleInputOutput\08. PrintsAllNumbersInInterval\obj\Debug\_08.PrintsAllNumbersInInterval.exe
+D:\Documents\BI\Telerik\4. Вход и изход от конзолата\HomeWork\HWConsoleInputOutput\08. PrintsAllNumbersInInterval\obj\Debug\_08.PrintsAllNumbersInInterval.pdb

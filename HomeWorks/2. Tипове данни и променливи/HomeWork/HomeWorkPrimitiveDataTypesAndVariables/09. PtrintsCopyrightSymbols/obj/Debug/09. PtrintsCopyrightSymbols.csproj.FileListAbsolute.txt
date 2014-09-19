@@ -1,0 +1,5 @@
+D:\Documents\BI\Telerik\2.Tипове данни и променливи\HomeWork\HomeWorkPrimitiveDataTypesAndVariables\09. PtrintsCopyrightSymbols\bin\Debug\_09.PtrintsCopyrightSymbols.exe.config
+D:\Documents\BI\Telerik\2.Tипове данни и променливи\HomeWork\HomeWorkPrimitiveDataTypesAndVariables\09. PtrintsCopyrightSymbols\bin\Debug\_09.PtrintsCopyrightSymbols.exe
+D:\Documents\BI\Telerik\2.Tипове данни и променливи\HomeWork\HomeWorkPrimitiveDataTypesAndVariables\09. PtrintsCopyrightSymbols\bin\Debug\_09.PtrintsCopyrightSymbols.pdb
+D:\Documents\BI\Telerik\2.Tипове данни и променливи\HomeWork\HomeWorkPrimitiveDataTypesAndVariables\09. PtrintsCopyrightSymbols\obj\Debug\_09.PtrintsCopyrightSymbols.exe
+D:\Documents\BI\Telerik\2.Tипове данни и променливи\HomeWork\HomeWorkPrimitiveDataTypesAndVariables\09. PtrintsCopyrightSymbols\obj\Debug\_09.PtrintsCopyrightSymbols.pdb

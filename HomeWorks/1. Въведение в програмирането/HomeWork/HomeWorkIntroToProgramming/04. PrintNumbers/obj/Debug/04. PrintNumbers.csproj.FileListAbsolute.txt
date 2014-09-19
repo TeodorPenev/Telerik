@@ -1,0 +1,5 @@
+D:\Documents\BI\Telerik\1.Въведение в програмирането\HomeWork\HomeWorkIntroToProgramming\3. PrintNumbers\bin\Debug\_3.PrintNumbers.exe.config
+D:\Documents\BI\Telerik\1.Въведение в програмирането\HomeWork\HomeWorkIntroToProgramming\3. PrintNumbers\obj\Debug\_3.PrintNumbers.exe
+D:\Documents\BI\Telerik\1.Въведение в програмирането\HomeWork\HomeWorkIntroToProgramming\3. PrintNumbers\obj\Debug\_3.PrintNumbers.pdb
+D:\Documents\BI\Telerik\1.Въведение в програмирането\HomeWork\HomeWorkIntroToProgramming\3. PrintNumbers\bin\Debug\_04.PrintNumbers.exe.config
+D:\Documents\BI\Telerik\1.Въведение в програмирането\HomeWork\HomeWorkIntroToProgramming\04. PrintNumbers\bin\Debug\_04.PrintNumbers.exe.config

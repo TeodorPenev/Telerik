@@ -1,0 +1,6 @@
+D:\Documents\BI\Telerik\5. Условни конструкции\HomeWork\HWConditionalStatements\10. AppliesBonusScores\bin\Debug\_10.AppliesBonusScores.exe.config
+D:\Documents\BI\Telerik\5. Условни конструкции\HomeWork\HWConditionalStatements\10. AppliesBonusScores\bin\Debug\_10.AppliesBonusScores.exe
+D:\Documents\BI\Telerik\5. Условни конструкции\HomeWork\HWConditionalStatements\10. AppliesBonusScores\bin\Debug\_10.AppliesBonusScores.pdb
+D:\Documents\BI\Telerik\5. Условни конструкции\HomeWork\HWConditionalStatements\10. AppliesBonusScores\obj\Debug\10. AppliesBonusScores.csprojResolveAssemblyReference.cache
+D:\Documents\BI\Telerik\5. Условни конструкции\HomeWork\HWConditionalStatements\10. AppliesBonusScores\obj\Debug\_10.AppliesBonusScores.exe
+D:\Documents\BI\Telerik\5. Условни конструкции\HomeWork\HWConditionalStatements\10. AppliesBonusScores\obj\Debug\_10.AppliesBonusScores.pdb

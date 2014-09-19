@@ -1,0 +1,6 @@
+D:\Documents\BI\Telerik\2.Tипове данни и променливи\HomeWork\HomeWorkPrimitiveDataTypesAndVariables\13. NullToIntAndDouble\bin\Debug\_13.NullToIntAndDouble.exe.config
+D:\Documents\BI\Telerik\2.Tипове данни и променливи\HomeWork\HomeWorkPrimitiveDataTypesAndVariables\13. NullToIntAndDouble\bin\Debug\_13.NullToIntAndDouble.exe
+D:\Documents\BI\Telerik\2.Tипове данни и променливи\HomeWork\HomeWorkPrimitiveDataTypesAndVariables\13. NullToIntAndDouble\bin\Debug\_13.NullToIntAndDouble.pdb
+D:\Documents\BI\Telerik\2.Tипове данни и променливи\HomeWork\HomeWorkPrimitiveDataTypesAndVariables\13. NullToIntAndDouble\obj\Debug\13. NullToIntAndDouble.csprojResolveAssemblyReference.cache
+D:\Documents\BI\Telerik\2.Tипове данни и променливи\HomeWork\HomeWorkPrimitiveDataTypesAndVariables\13. NullToIntAndDouble\obj\Debug\_13.NullToIntAndDouble.exe
+D:\Documents\BI\Telerik\2.Tипове данни и променливи\HomeWork\HomeWorkPrimitiveDataTypesAndVariables\13. NullToIntAndDouble\obj\Debug\_13.NullToIntAndDouble.pdb

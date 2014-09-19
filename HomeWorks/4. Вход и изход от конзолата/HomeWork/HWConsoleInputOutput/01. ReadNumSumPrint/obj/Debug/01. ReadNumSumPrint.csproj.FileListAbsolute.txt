@@ -1,0 +1,1 @@
+D:\Documents\BI\Telerik\4. Вход и изход от конзолата\HomeWork\HWConsoleInputOutput\01. ReadNumSumPrint\bin\Debug\_01.ReadNumSumPrint.exe.config

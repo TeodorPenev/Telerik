@@ -1,0 +1,2 @@
+D:\Documents\BI\Telerik\3. Оператори и изрази\HomeWork\HomeWorkOperatorsExpressionsStatements\07. CheckNumberIsPrime\bin\Debug\_07.CheckNumberIsPrime.exe.config
+D:\Documents\BI\Telerik\3. Оператори и изрази\HomeWork\HomeWorkOperatorsExpressionsStatements\07. CheckNumberIsPrime\obj\Debug\07. CheckNumberIsPrime.csprojResolveAssemblyReference.cache

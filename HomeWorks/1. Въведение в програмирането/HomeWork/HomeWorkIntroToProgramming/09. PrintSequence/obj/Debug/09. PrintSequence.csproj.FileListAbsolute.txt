@@ -1,0 +1,6 @@
+D:\Documents\BI\Telerik\1.Въведение в програмирането\HomeWork\HomeWorkIntroToProgramming\09. PrintSequence\bin\Debug\_09.PrintSequence.exe.config
+D:\Documents\BI\Telerik\1.Въведение в програмирането\HomeWork\HomeWorkIntroToProgramming\09. PrintSequence\bin\Debug\_09.PrintSequence.exe
+D:\Documents\BI\Telerik\1.Въведение в програмирането\HomeWork\HomeWorkIntroToProgramming\09. PrintSequence\bin\Debug\_09.PrintSequence.pdb
+D:\Documents\BI\Telerik\1.Въведение в програмирането\HomeWork\HomeWorkIntroToProgramming\09. PrintSequence\obj\Debug\09. PrintSequence.csprojResolveAssemblyReference.cache
+D:\Documents\BI\Telerik\1.Въведение в програмирането\HomeWork\HomeWorkIntroToProgramming\09. PrintSequence\obj\Debug\_09.PrintSequence.exe
+D:\Documents\BI\Telerik\1.Въведение в програмирането\HomeWork\HomeWorkIntroToProgramming\09. PrintSequence\obj\Debug\_09.PrintSequence.pdb

@@ -1,0 +1,5 @@
+D:\Documents\BI\Telerik\2.Tипове данни и променливи\HomeWork\HomeWorkPrimitiveDataTypesAndVariables\08. QuotedStringsTest\bin\Debug\_08.QuotedStringsTest.exe.config
+D:\Documents\BI\Telerik\2.Tипове данни и променливи\HomeWork\HomeWorkPrimitiveDataTypesAndVariables\08. QuotedStringsTest\bin\Debug\_08.QuotedStringsTest.exe
+D:\Documents\BI\Telerik\2.Tипове данни и променливи\HomeWork\HomeWorkPrimitiveDataTypesAndVariables\08. QuotedStringsTest\bin\Debug\_08.QuotedStringsTest.pdb
+D:\Documents\BI\Telerik\2.Tипове данни и променливи\HomeWork\HomeWorkPrimitiveDataTypesAndVariables\08. QuotedStringsTest\obj\Debug\_08.QuotedStringsTest.exe
+D:\Documents\BI\Telerik\2.Tипове данни и променливи\HomeWork\HomeWorkPrimitiveDataTypesAndVariables\08. QuotedStringsTest\obj\Debug\_08.QuotedStringsTest.pdb

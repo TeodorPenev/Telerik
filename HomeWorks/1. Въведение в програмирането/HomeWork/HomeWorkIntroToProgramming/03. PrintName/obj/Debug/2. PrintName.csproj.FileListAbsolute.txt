@@ -1,0 +1,5 @@
+D:\Documents\BI\Telerik\1.Въведение в програмирането\HomeWork\HomeWorkIntroToProgramming\2. PrintName\bin\Debug\_2.PrintName.exe.config
+D:\Documents\BI\Telerik\1.Въведение в програмирането\HomeWork\HomeWorkIntroToProgramming\2. PrintName\bin\Debug\_2.PrintName.exe
+D:\Documents\BI\Telerik\1.Въведение в програмирането\HomeWork\HomeWorkIntroToProgramming\2. PrintName\bin\Debug\_2.PrintName.pdb
+D:\Documents\BI\Telerik\1.Въведение в програмирането\HomeWork\HomeWorkIntroToProgramming\2. PrintName\obj\Debug\_2.PrintName.exe
+D:\Documents\BI\Telerik\1.Въведение в програмирането\HomeWork\HomeWorkIntroToProgramming\2. PrintName\obj\Debug\_2.PrintName.pdb

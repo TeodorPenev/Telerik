@@ -1,0 +1,5 @@
+D:\Documents\BI\Telerik\1.Въведение в програмирането\HomeWork\HomeWorkIntroToProgramming\5. PrintDateTimeCurrent\bin\Debug\_5.PrintDateTimeCurrent.exe.config
+D:\Documents\BI\Telerik\1.Въведение в програмирането\HomeWork\HomeWorkIntroToProgramming\5. PrintDateTimeCurrent\bin\Debug\_5.PrintDateTimeCurrent.exe
+D:\Documents\BI\Telerik\1.Въведение в програмирането\HomeWork\HomeWorkIntroToProgramming\5. PrintDateTimeCurrent\bin\Debug\_5.PrintDateTimeCurrent.pdb
+D:\Documents\BI\Telerik\1.Въведение в програмирането\HomeWork\HomeWorkIntroToProgramming\5. PrintDateTimeCurrent\obj\Debug\_5.PrintDateTimeCurrent.exe
+D:\Documents\BI\Telerik\1.Въведение в програмирането\HomeWork\HomeWorkIntroToProgramming\5. PrintDateTimeCurrent\obj\Debug\_5.PrintDateTimeCurrent.pdb

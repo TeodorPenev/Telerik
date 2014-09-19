@@ -1,0 +1,6 @@
+D:\Documents\BI\Telerik\3. Оператори и изрази\HomeWork\HomeWorkOperatorsExpressionsStatements\09. ChecksPointWithinCircleOutRectangle\bin\Debug\_09.ChecksPointWithinCircleOutRectangle.exe.config
+D:\Documents\BI\Telerik\3. Оператори и изрази\HomeWork\HomeWorkOperatorsExpressionsStatements\09. ChecksPointWithinCircleOutRectangle\obj\Debug\09. ChecksPointWithinCircleOutRectangle.csprojResolveAssemblyReference.cache
+D:\Documents\BI\Telerik\3. Оператори и изрази\HomeWork\HomeWorkOperatorsExpressionsStatements\09. ChecksPointWithinCircleOutRectangle\bin\Debug\_09.ChecksPointWithinCircleOutRectangle.exe
+D:\Documents\BI\Telerik\3. Оператори и изрази\HomeWork\HomeWorkOperatorsExpressionsStatements\09. ChecksPointWithinCircleOutRectangle\bin\Debug\_09.ChecksPointWithinCircleOutRectangle.pdb
+D:\Documents\BI\Telerik\3. Оператори и изрази\HomeWork\HomeWorkOperatorsExpressionsStatements\09. ChecksPointWithinCircleOutRectangle\obj\Debug\_09.ChecksPointWithinCircleOutRectangle.exe
+D:\Documents\BI\Telerik\3. Оператори и изрази\HomeWork\HomeWorkOperatorsExpressionsStatements\09. ChecksPointWithinCircleOutRectangle\obj\Debug\_09.ChecksPointWithinCircleOutRectangle.pdb

@@ -1,0 +1,5 @@
+D:\Documents\BI\Telerik\1.Въведение в програмирането\HomeWork\HomeWorkIntroToProgramming\6. SquareRoot\bin\Debug\_6.SquareRoot.exe.config
+D:\Documents\BI\Telerik\1.Въведение в програмирането\HomeWork\HomeWorkIntroToProgramming\6. SquareRoot\bin\Debug\_6.SquareRoot.exe
+D:\Documents\BI\Telerik\1.Въведение в програмирането\HomeWork\HomeWorkIntroToProgramming\6. SquareRoot\bin\Debug\_6.SquareRoot.pdb
+D:\Documents\BI\Telerik\1.Въведение в програмирането\HomeWork\HomeWorkIntroToProgramming\6. SquareRoot\obj\Debug\_6.SquareRoot.exe
+D:\Documents\BI\Telerik\1.Въведение в програмирането\HomeWork\HomeWorkIntroToProgramming\6. SquareRoot\obj\Debug\_6.SquareRoot.pdb
