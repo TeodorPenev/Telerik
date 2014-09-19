@@ -1,0 +1,1 @@
+Telerik_CSharp is a repository for my Home Works and Exam preparation in Telerik Academy. 
