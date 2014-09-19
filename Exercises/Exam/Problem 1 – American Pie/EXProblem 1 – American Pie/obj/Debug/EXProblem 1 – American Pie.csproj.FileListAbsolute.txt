@@ -1,0 +1,15 @@
+D:\Documents\BI\Telerik\Trash\EXProblem 1 – American Pie\EXProblem 1 – American Pie\bin\Debug\EXProblem 1 – American Pie.exe.config
+D:\Documents\BI\Telerik\Trash\EXProblem 1 – American Pie\EXProblem 1 – American Pie\obj\Debug\EXProblem 1 – American Pie.csprojResolveAssemblyReference.cache
+D:\Documents\BI\Telerik\Trash\EXProblem 1 – American Pie\EXProblem 1 – American Pie\bin\Debug\EXProblem 1 – American Pie.exe
+D:\Documents\BI\Telerik\Trash\EXProblem 1 – American Pie\EXProblem 1 – American Pie\bin\Debug\EXProblem 1 – American Pie.pdb
+D:\Documents\BI\Telerik\Trash\EXProblem 1 – American Pie\EXProblem 1 – American Pie\obj\Debug\EXProblem 1 – American Pie.exe
+D:\Documents\BI\Telerik\Trash\EXProblem 1 – American Pie\EXProblem 1 – American Pie\obj\Debug\EXProblem 1 – American Pie.pdb
+D:\Documents\BI\Telerik\Exam\EXProblem 1 – American Pie\EXProblem 1 – American Pie\bin\Debug\EXProblem 1 – American Pie.exe.config
+D:\Documents\BI\Telerik\Exam\EXProblem 1 – American Pie\EXProblem 1 – American Pie\obj\Debug\EXProblem 1 – American Pie.exe
+D:\Documents\BI\Telerik\Exam\EXProblem 1 – American Pie\EXProblem 1 – American Pie\obj\Debug\EXProblem 1 – American Pie.pdb
+D:\Documents\BI\Telerik\Exam\EXProblem 1 – American Pie\EXProblem 1 – American Pie\obj\Debug\EXProblem 1 – American Pie.csprojResolveAssemblyReference.cache
+D:\Documents\BI\Telerik\Exam\EXProblem 1 – American Pie\EXProblem 1 – American Pie\bin\Debug\EXProblem 1 – American Pie.exe
+D:\Documents\BI\Telerik\Exam\EXProblem 1 – American Pie\EXProblem 1 – American Pie\bin\Debug\EXProblem 1 – American Pie.pdb
+D:\Documents\BI\Telerik\Exam\Problem 1 – American Pie\EXProblem 1 – American Pie\bin\Debug\EXProblem 1 – American Pie.exe.config
+D:\Documents\BI\Telerik\Exam\Problem 1 – American Pie\EXProblem 1 – American Pie\obj\Debug\EXProblem 1 – American Pie.exe
+D:\Documents\BI\Telerik\Exam\Problem 1 – American Pie\EXProblem 1 – American Pie\obj\Debug\EXProblem 1 – American Pie.pdb

@@ -1,0 +1,8 @@
+C:\Users\TaoTao\Documents\Visual Studio 2012\Projects\MyFirstHomework\Task12\bin\Debug\Task12.exe.config
+C:\Users\TaoTao\Documents\Visual Studio 2012\Projects\MyFirstHomework\Task12\bin\Debug\Task12.exe
+C:\Users\TaoTao\Documents\Visual Studio 2012\Projects\MyFirstHomework\Task12\bin\Debug\Task12.pdb
+C:\Users\TaoTao\Documents\Visual Studio 2012\Projects\MyFirstHomework\Task12\obj\Debug\Task12.exe
+C:\Users\TaoTao\Documents\Visual Studio 2012\Projects\MyFirstHomework\Task12\obj\Debug\Task12.pdb
+D:\Documents\BI\Telerik\Trash\Task12\bin\Debug\Task12.exe.config
+D:\Documents\BI\Telerik\Trash\Task12\obj\Debug\Task12.exe
+D:\Documents\BI\Telerik\Trash\Task12\obj\Debug\Task12.pdb

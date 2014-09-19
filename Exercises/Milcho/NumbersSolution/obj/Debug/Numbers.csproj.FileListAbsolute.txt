@@ -1,0 +1,9 @@
+C:\Users\Milcho\Desktop\Solution1\Numbers\bin\Debug\Numbers.exe.config
+C:\Users\Milcho\Desktop\Solution1\Numbers\bin\Debug\Numbers.exe
+C:\Users\Milcho\Desktop\Solution1\Numbers\bin\Debug\Numbers.pdb
+C:\Users\Milcho\Desktop\Solution1\Numbers\obj\Debug\Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Milcho\Desktop\Solution1\Numbers\obj\Debug\Numbers.exe
+C:\Users\Milcho\Desktop\Solution1\Numbers\obj\Debug\Numbers.pdb
+C:\Users\Teodor\Desktop\Numbers\bin\Debug\Numbers.exe.config
+C:\Users\Teodor\Desktop\Numbers\obj\Debug\Numbers.exe
+C:\Users\Teodor\Desktop\Numbers\obj\Debug\Numbers.pdb

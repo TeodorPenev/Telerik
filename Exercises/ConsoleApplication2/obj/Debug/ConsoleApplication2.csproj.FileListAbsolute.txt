@@ -1,0 +1,5 @@
+D:\Documents\BI\Telerik\Trash\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\Documents\BI\Telerik\Trash\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\Documents\BI\Telerik\Trash\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\Documents\BI\Telerik\Trash\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\Documents\BI\Telerik\Trash\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

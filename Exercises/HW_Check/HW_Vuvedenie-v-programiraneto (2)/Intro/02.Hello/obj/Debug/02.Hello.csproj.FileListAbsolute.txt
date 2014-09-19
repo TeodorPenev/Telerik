@@ -1,0 +1,6 @@
+c:\Users\Radenkov\documents\visual studio 2012\Projects\Intro\02.Hello\bin\Debug\02.Hello.exe.config
+c:\Users\Radenkov\documents\visual studio 2012\Projects\Intro\02.Hello\bin\Debug\02.Hello.exe
+c:\Users\Radenkov\documents\visual studio 2012\Projects\Intro\02.Hello\bin\Debug\02.Hello.pdb
+c:\Users\Radenkov\documents\visual studio 2012\Projects\Intro\02.Hello\obj\Debug\02.Hello.csprojResolveAssemblyReference.cache
+c:\Users\Radenkov\documents\visual studio 2012\Projects\Intro\02.Hello\obj\Debug\02.Hello.exe
+c:\Users\Radenkov\documents\visual studio 2012\Projects\Intro\02.Hello\obj\Debug\02.Hello.pdb

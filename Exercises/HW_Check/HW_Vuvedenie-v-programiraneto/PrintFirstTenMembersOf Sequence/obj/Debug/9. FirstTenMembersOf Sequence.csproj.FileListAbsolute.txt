@@ -1,0 +1,5 @@
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\PrintFirstTenMembersOf Sequence\bin\Debug\PrintFirstTenMembersOf Sequence.exe.config
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\PrintFirstTenMembersOf Sequence\bin\Debug\PrintFirstTenMembersOf Sequence.exe
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\PrintFirstTenMembersOf Sequence\bin\Debug\PrintFirstTenMembersOf Sequence.pdb
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\PrintFirstTenMembersOf Sequence\obj\Debug\PrintFirstTenMembersOf Sequence.exe
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\PrintFirstTenMembersOf Sequence\obj\Debug\PrintFirstTenMembersOf Sequence.pdb

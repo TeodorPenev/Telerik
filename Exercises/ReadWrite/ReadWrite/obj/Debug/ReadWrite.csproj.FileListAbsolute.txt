@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\ReadWrite\ReadWrite\bin\Debug\ReadWrite.exe.config
+C:\Users\Teodor\Desktop\ReadWrite\ReadWrite\obj\Debug\ReadWrite.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\ReadWrite\ReadWrite\bin\Debug\ReadWrite.exe
+C:\Users\Teodor\Desktop\ReadWrite\ReadWrite\bin\Debug\ReadWrite.pdb
+C:\Users\Teodor\Desktop\ReadWrite\ReadWrite\obj\Debug\ReadWrite.exe
+C:\Users\Teodor\Desktop\ReadWrite\ReadWrite\obj\Debug\ReadWrite.pdb

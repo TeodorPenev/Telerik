@@ -1,0 +1,12 @@
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\AgeInTenYears\bin\Debug\AgeInTenYears.exe.config
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\AgeInTenYears\obj\Debug\AgeInTenYears.exe
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\AgeInTenYears\obj\Debug\AgeInTenYears.pdb
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\AgeInTenYears\bin\Debug\AgeInTenYears.exe
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\AgeInTenYears\bin\Debug\AgeInTenYears.pdb
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\AgeInTenYears\obj\Debug\12. AgeInTenYears.csprojResolveAssemblyReference.cache
+D:\Documents\BI\Telerik\Trash\HW_Vuvedenie-v-programiraneto\AgeInTenYears\bin\Debug\AgeInTenYears.exe.config
+D:\Documents\BI\Telerik\Trash\HW_Vuvedenie-v-programiraneto\AgeInTenYears\obj\Debug\AgeInTenYears.exe
+D:\Documents\BI\Telerik\Trash\HW_Vuvedenie-v-programiraneto\AgeInTenYears\obj\Debug\AgeInTenYears.pdb
+D:\Documents\BI\Telerik\Trash\HW_Vuvedenie-v-programiraneto\AgeInTenYears\bin\Debug\AgeInTenYears.exe
+D:\Documents\BI\Telerik\Trash\HW_Vuvedenie-v-programiraneto\AgeInTenYears\bin\Debug\AgeInTenYears.pdb
+D:\Documents\BI\Telerik\Trash\HW_Vuvedenie-v-programiraneto\AgeInTenYears\obj\Debug\12. AgeInTenYears.csprojResolveAssemblyReference.cache

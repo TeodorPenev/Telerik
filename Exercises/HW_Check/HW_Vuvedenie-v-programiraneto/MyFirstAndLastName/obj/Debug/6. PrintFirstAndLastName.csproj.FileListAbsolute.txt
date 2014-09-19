@@ -1,0 +1,5 @@
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\MyFirstAndLastName\bin\Debug\MyFirstAndLastName.exe.config
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\MyFirstAndLastName\bin\Debug\MyFirstAndLastName.exe
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\MyFirstAndLastName\bin\Debug\MyFirstAndLastName.pdb
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\MyFirstAndLastName\obj\Debug\MyFirstAndLastName.exe
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\MyFirstAndLastName\obj\Debug\MyFirstAndLastName.pdb

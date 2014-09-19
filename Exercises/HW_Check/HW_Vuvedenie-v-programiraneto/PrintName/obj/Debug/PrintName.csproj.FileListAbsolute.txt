@@ -1,0 +1,6 @@
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\PrintName\bin\Debug\PrintName.exe.config
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\PrintName\bin\Debug\PrintName.exe
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\PrintName\bin\Debug\PrintName.pdb
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\PrintName\obj\Debug\PrintName.csprojResolveAssemblyReference.cache
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\PrintName\obj\Debug\PrintName.exe
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\PrintName\obj\Debug\PrintName.pdb

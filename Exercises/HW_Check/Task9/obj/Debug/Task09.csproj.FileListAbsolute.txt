@@ -1,0 +1,9 @@
+C:\Users\TaoTao\Documents\Visual Studio 2012\Projects\MyFirstHomework\Task9\bin\Debug\Task9.exe.config
+C:\Users\TaoTao\Documents\Visual Studio 2012\Projects\MyFirstHomework\Task9\obj\Debug\Task9.exe
+C:\Users\TaoTao\Documents\Visual Studio 2012\Projects\MyFirstHomework\Task9\obj\Debug\Task9.pdb
+D:\Documents\BI\Telerik\Trash\Task9\bin\Debug\Task9.exe.config
+D:\Documents\BI\Telerik\Trash\Task9\obj\Debug\Task9.exe
+D:\Documents\BI\Telerik\Trash\Task9\obj\Debug\Task9.pdb
+D:\Documents\BI\Telerik\Trash\HW_Check\Task9\bin\Debug\Task9.exe.config
+D:\Documents\BI\Telerik\Trash\HW_Check\Task9\obj\Debug\Task9.exe
+D:\Documents\BI\Telerik\Trash\HW_Check\Task9\obj\Debug\Task9.pdb

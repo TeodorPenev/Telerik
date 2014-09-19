@@ -1,0 +1,6 @@
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\SequenceWithWhile\bin\Debug\SequenceWithWhile.exe.config
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\SequenceWithWhile\bin\Debug\SequenceWithWhile.exe
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\SequenceWithWhile\bin\Debug\SequenceWithWhile.pdb
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\SequenceWithWhile\obj\Debug\SequenceWithWhile.exe
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\SequenceWithWhile\obj\Debug\SequenceWithWhile.pdb
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\SequenceWithWhile\obj\Debug\SequenceWithWhile.csprojResolveAssemblyReference.cache

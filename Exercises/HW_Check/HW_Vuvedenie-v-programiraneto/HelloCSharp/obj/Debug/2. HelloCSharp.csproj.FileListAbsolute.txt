@@ -1,0 +1,11 @@
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\HelloCSharp\obj\Debug\HelloCSharp.exe
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\HelloCSharp\obj\Debug\HelloCSharp.pdb
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\HelloCSharp\bin\Debug\HelloCSharp.exe
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\HelloCSharp\bin\Debug\HelloCSharp.pdb
+D:\Documents\BI\Telerik\Trash\HW_Vuvedenie-v-programiraneto\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+D:\Documents\BI\Telerik\Trash\HW_Vuvedenie-v-programiraneto\HelloCSharp\obj\Debug\HelloCSharp.exe
+D:\Documents\BI\Telerik\Trash\HW_Vuvedenie-v-programiraneto\HelloCSharp\obj\Debug\HelloCSharp.pdb
+D:\Documents\BI\Telerik\Trash\HW_Vuvedenie-v-programiraneto\HelloCSharp\bin\Debug\HelloCSharp.exe
+D:\Documents\BI\Telerik\Trash\HW_Vuvedenie-v-programiraneto\HelloCSharp\bin\Debug\HelloCSharp.pdb
+D:\Documents\BI\Telerik\Trash\HW_Vuvedenie-v-programiraneto\HelloCSharp\obj\Debug\2. HelloCSharp.csprojResolveAssemblyReference.cache

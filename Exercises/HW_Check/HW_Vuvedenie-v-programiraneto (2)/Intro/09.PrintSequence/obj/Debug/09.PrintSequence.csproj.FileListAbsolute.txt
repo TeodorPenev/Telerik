@@ -1,0 +1,5 @@
+c:\Users\Radenkov\documents\visual studio 2012\Projects\Intro\09.PrintSequence\bin\Debug\09.PrintSequence.exe.config
+c:\Users\Radenkov\documents\visual studio 2012\Projects\Intro\09.PrintSequence\bin\Debug\09.PrintSequence.exe
+c:\Users\Radenkov\documents\visual studio 2012\Projects\Intro\09.PrintSequence\bin\Debug\09.PrintSequence.pdb
+c:\Users\Radenkov\documents\visual studio 2012\Projects\Intro\09.PrintSequence\obj\Debug\09.PrintSequence.exe
+c:\Users\Radenkov\documents\visual studio 2012\Projects\Intro\09.PrintSequence\obj\Debug\09.PrintSequence.pdb

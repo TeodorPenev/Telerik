@@ -1,0 +1,8 @@
+C:\Users\TaoTao\Documents\Visual Studio 2012\Projects\MyFirstHomework\PrintMyName\bin\Debug\PrintMyName.exe.config
+C:\Users\TaoTao\Documents\Visual Studio 2012\Projects\MyFirstHomework\PrintMyName\bin\Debug\PrintMyName.exe
+C:\Users\TaoTao\Documents\Visual Studio 2012\Projects\MyFirstHomework\PrintMyName\bin\Debug\PrintMyName.pdb
+C:\Users\TaoTao\Documents\Visual Studio 2012\Projects\MyFirstHomework\PrintMyName\obj\Debug\PrintMyName.exe
+C:\Users\TaoTao\Documents\Visual Studio 2012\Projects\MyFirstHomework\PrintMyName\obj\Debug\PrintMyName.pdb
+D:\Documents\BI\Telerik\Trash\Task3\bin\Debug\PrintMyName.exe.config
+D:\Documents\BI\Telerik\Trash\Task3\obj\Debug\PrintMyName.exe
+D:\Documents\BI\Telerik\Trash\Task3\obj\Debug\PrintMyName.pdb

@@ -1,0 +1,6 @@
+D:\Documents\BI\Telerik\Exam\Problem 1 – 2-4-8\Problem 1 – 2-4-8\bin\Debug\Problem 1 – 2-4-8.exe.config
+D:\Documents\BI\Telerik\Exam\Problem 1 – 2-4-8\Problem 1 – 2-4-8\bin\Debug\Problem 1 – 2-4-8.exe
+D:\Documents\BI\Telerik\Exam\Problem 1 – 2-4-8\Problem 1 – 2-4-8\bin\Debug\Problem 1 – 2-4-8.pdb
+D:\Documents\BI\Telerik\Exam\Problem 1 – 2-4-8\Problem 1 – 2-4-8\obj\Debug\Problem 1 – 2-4-8.csprojResolveAssemblyReference.cache
+D:\Documents\BI\Telerik\Exam\Problem 1 – 2-4-8\Problem 1 – 2-4-8\obj\Debug\Problem 1 – 2-4-8.exe
+D:\Documents\BI\Telerik\Exam\Problem 1 – 2-4-8\Problem 1 – 2-4-8\obj\Debug\Problem 1 – 2-4-8.pdb

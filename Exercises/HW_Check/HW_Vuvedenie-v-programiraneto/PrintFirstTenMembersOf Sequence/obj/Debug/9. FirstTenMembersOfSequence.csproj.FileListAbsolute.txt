@@ -1,0 +1,12 @@
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\PrintFirstTenMembersOf Sequence\bin\Debug\PrintFirstTenMembersOf Sequence.exe.config
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\PrintFirstTenMembersOf Sequence\obj\Debug\PrintFirstTenMembersOf Sequence.exe
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\PrintFirstTenMembersOf Sequence\obj\Debug\PrintFirstTenMembersOf Sequence.pdb
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\PrintFirstTenMembersOf Sequence\bin\Debug\PrintFirstTenMembersOf Sequence.exe
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\PrintFirstTenMembersOf Sequence\bin\Debug\PrintFirstTenMembersOf Sequence.pdb
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\PrintFirstTenMembersOf Sequence\obj\Debug\9. FirstTenMembersOfSequence.csprojResolveAssemblyReference.cache
+D:\Documents\BI\Telerik\Trash\HW_Vuvedenie-v-programiraneto\PrintFirstTenMembersOf Sequence\bin\Debug\PrintFirstTenMembersOf Sequence.exe.config
+D:\Documents\BI\Telerik\Trash\HW_Vuvedenie-v-programiraneto\PrintFirstTenMembersOf Sequence\obj\Debug\PrintFirstTenMembersOf Sequence.exe
+D:\Documents\BI\Telerik\Trash\HW_Vuvedenie-v-programiraneto\PrintFirstTenMembersOf Sequence\obj\Debug\PrintFirstTenMembersOf Sequence.pdb
+D:\Documents\BI\Telerik\Trash\HW_Vuvedenie-v-programiraneto\PrintFirstTenMembersOf Sequence\bin\Debug\PrintFirstTenMembersOf Sequence.exe
+D:\Documents\BI\Telerik\Trash\HW_Vuvedenie-v-programiraneto\PrintFirstTenMembersOf Sequence\bin\Debug\PrintFirstTenMembersOf Sequence.pdb
+D:\Documents\BI\Telerik\Trash\HW_Vuvedenie-v-programiraneto\PrintFirstTenMembersOf Sequence\obj\Debug\9. FirstTenMembersOfSequence.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Documents\BI\Telerik\Exam\Problem 1 – Coffee Vending Machine\Problem 1 – Coffee Vending Machine\bin\Debug\Problem 1 – Coffee Vending Machine.exe.config
+D:\Documents\BI\Telerik\Exam\Problem 1 – Coffee Vending Machine\Problem 1 – Coffee Vending Machine\bin\Debug\Problem 1 – Coffee Vending Machine.exe
+D:\Documents\BI\Telerik\Exam\Problem 1 – Coffee Vending Machine\Problem 1 – Coffee Vending Machine\bin\Debug\Problem 1 – Coffee Vending Machine.pdb
+D:\Documents\BI\Telerik\Exam\Problem 1 – Coffee Vending Machine\Problem 1 – Coffee Vending Machine\obj\Debug\Problem 1 – Coffee Vending Machine.csprojResolveAssemblyReference.cache
+D:\Documents\BI\Telerik\Exam\Problem 1 – Coffee Vending Machine\Problem 1 – Coffee Vending Machine\obj\Debug\Problem 1 – Coffee Vending Machine.exe
+D:\Documents\BI\Telerik\Exam\Problem 1 – Coffee Vending Machine\Problem 1 – Coffee Vending Machine\obj\Debug\Problem 1 – Coffee Vending Machine.pdb

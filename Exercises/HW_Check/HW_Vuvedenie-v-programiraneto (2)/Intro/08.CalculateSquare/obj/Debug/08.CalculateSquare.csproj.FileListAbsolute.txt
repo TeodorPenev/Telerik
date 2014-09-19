@@ -1,0 +1,6 @@
+c:\Users\Radenkov\documents\visual studio 2012\Projects\Intro\08.CalculateSquare\bin\Debug\08.CalculateSquare.exe.config
+c:\Users\Radenkov\documents\visual studio 2012\Projects\Intro\08.CalculateSquare\bin\Debug\08.CalculateSquare.exe
+c:\Users\Radenkov\documents\visual studio 2012\Projects\Intro\08.CalculateSquare\bin\Debug\08.CalculateSquare.pdb
+c:\Users\Radenkov\documents\visual studio 2012\Projects\Intro\08.CalculateSquare\obj\Debug\08.CalculateSquare.exe
+c:\Users\Radenkov\documents\visual studio 2012\Projects\Intro\08.CalculateSquare\obj\Debug\08.CalculateSquare.pdb
+c:\Users\Radenkov\documents\visual studio 2012\Projects\Intro\08.CalculateSquare\obj\Debug\08.CalculateSquare.csprojResolveAssemblyReference.cache

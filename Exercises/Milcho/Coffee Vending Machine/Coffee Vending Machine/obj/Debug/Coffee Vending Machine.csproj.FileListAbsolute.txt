@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\Coffee Vending Machine\Coffee Vending Machine\bin\Debug\Coffee Vending Machine.exe.config
+C:\Users\Teodor\Desktop\Coffee Vending Machine\Coffee Vending Machine\bin\Debug\Coffee Vending Machine.exe
+C:\Users\Teodor\Desktop\Coffee Vending Machine\Coffee Vending Machine\bin\Debug\Coffee Vending Machine.pdb
+C:\Users\Teodor\Desktop\Coffee Vending Machine\Coffee Vending Machine\obj\Debug\Coffee Vending Machine.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\Coffee Vending Machine\Coffee Vending Machine\obj\Debug\Coffee Vending Machine.exe
+C:\Users\Teodor\Desktop\Coffee Vending Machine\Coffee Vending Machine\obj\Debug\Coffee Vending Machine.pdb

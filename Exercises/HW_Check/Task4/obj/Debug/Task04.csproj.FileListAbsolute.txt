@@ -1,0 +1,6 @@
+C:\Users\TaoTao\Documents\Visual Studio 2012\Projects\MyFirstHomework\Task3\bin\Debug\Task3.exe.config
+C:\Users\TaoTao\Documents\Visual Studio 2012\Projects\MyFirstHomework\Task3\obj\Debug\Task3.exe
+C:\Users\TaoTao\Documents\Visual Studio 2012\Projects\MyFirstHomework\Task3\obj\Debug\Task3.pdb
+D:\Documents\BI\Telerik\Trash\Task4\bin\Debug\Task3.exe.config
+D:\Documents\BI\Telerik\Trash\Task4\obj\Debug\Task3.exe
+D:\Documents\BI\Telerik\Trash\Task4\obj\Debug\Task3.pdb

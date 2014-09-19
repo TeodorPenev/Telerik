@@ -1,0 +1,6 @@
+C:\Users\TaoTao\Documents\Visual Studio 2012\Projects\MyFirstHomework\Task3\bin\Debug\Task3.exe.config
+C:\Users\TaoTao\Documents\Visual Studio 2012\Projects\MyFirstHomework\Task3\bin\Debug\Task3.exe
+C:\Users\TaoTao\Documents\Visual Studio 2012\Projects\MyFirstHomework\Task3\bin\Debug\Task3.pdb
+C:\Users\TaoTao\Documents\Visual Studio 2012\Projects\MyFirstHomework\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache
+C:\Users\TaoTao\Documents\Visual Studio 2012\Projects\MyFirstHomework\Task3\obj\Debug\Task3.exe
+C:\Users\TaoTao\Documents\Visual Studio 2012\Projects\MyFirstHomework\Task3\obj\Debug\Task3.pdb

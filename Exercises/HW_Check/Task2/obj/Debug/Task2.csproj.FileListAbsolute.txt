@@ -1,0 +1,5 @@
+C:\Users\TaoTao\Documents\Visual Studio 2012\Projects\MyFirstHomework\MyFirstHomework\bin\Debug\MyFirstHomework.exe.config
+C:\Users\TaoTao\Documents\Visual Studio 2012\Projects\MyFirstHomework\MyFirstHomework\obj\Debug\MyFirstHomework.exe
+C:\Users\TaoTao\Documents\Visual Studio 2012\Projects\MyFirstHomework\MyFirstHomework\obj\Debug\MyFirstHomework.pdb
+C:\Users\TaoTao\Documents\Visual Studio 2012\Projects\MyFirstHomework\MyFirstHomework\bin\Debug\MyFirstHomework.exe
+C:\Users\TaoTao\Documents\Visual Studio 2012\Projects\MyFirstHomework\MyFirstHomework\bin\Debug\MyFirstHomework.pdb

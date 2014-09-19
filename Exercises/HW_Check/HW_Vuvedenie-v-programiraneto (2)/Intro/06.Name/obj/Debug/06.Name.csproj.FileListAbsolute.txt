@@ -1,0 +1,6 @@
+c:\Users\Radenkov\documents\visual studio 2012\Projects\Intro\06.Name\bin\Debug\06.Name.exe.config
+c:\Users\Radenkov\documents\visual studio 2012\Projects\Intro\06.Name\bin\Debug\06.Name.exe
+c:\Users\Radenkov\documents\visual studio 2012\Projects\Intro\06.Name\bin\Debug\06.Name.pdb
+c:\Users\Radenkov\documents\visual studio 2012\Projects\Intro\06.Name\obj\Debug\06.Name.exe
+c:\Users\Radenkov\documents\visual studio 2012\Projects\Intro\06.Name\obj\Debug\06.Name.pdb
+c:\Users\Radenkov\documents\visual studio 2012\Projects\Intro\06.Name\obj\Debug\06.Name.csprojResolveAssemblyReference.cache

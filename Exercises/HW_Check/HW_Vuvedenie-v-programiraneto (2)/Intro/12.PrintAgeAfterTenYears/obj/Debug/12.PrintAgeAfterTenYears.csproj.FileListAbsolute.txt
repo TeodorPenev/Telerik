@@ -1,0 +1,8 @@
+c:\Users\Radenkov\documents\visual studio 2012\Projects\Intro\12.PrintAgeAfterTenYears\bin\Debug\12.PrintAgeAfterTenYears.exe.config
+c:\Users\Radenkov\documents\visual studio 2012\Projects\Intro\12.PrintAgeAfterTenYears\bin\Debug\12.PrintAgeAfterTenYears.exe
+c:\Users\Radenkov\documents\visual studio 2012\Projects\Intro\12.PrintAgeAfterTenYears\bin\Debug\12.PrintAgeAfterTenYears.pdb
+c:\Users\Radenkov\documents\visual studio 2012\Projects\Intro\12.PrintAgeAfterTenYears\obj\Debug\12.PrintAgeAfterTenYears.exe
+c:\Users\Radenkov\documents\visual studio 2012\Projects\Intro\12.PrintAgeAfterTenYears\obj\Debug\12.PrintAgeAfterTenYears.pdb
+D:\Documents\BI\Telerik\Trash\HW_Vuvedenie-v-programiraneto (2)\Intro\12.PrintAgeAfterTenYears\bin\Debug\12.PrintAgeAfterTenYears.exe.config
+D:\Documents\BI\Telerik\Trash\HW_Vuvedenie-v-programiraneto (2)\Intro\12.PrintAgeAfterTenYears\obj\Debug\12.PrintAgeAfterTenYears.exe
+D:\Documents\BI\Telerik\Trash\HW_Vuvedenie-v-programiraneto (2)\Intro\12.PrintAgeAfterTenYears\obj\Debug\12.PrintAgeAfterTenYears.pdb

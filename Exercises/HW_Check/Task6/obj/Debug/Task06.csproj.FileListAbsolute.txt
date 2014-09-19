@@ -1,0 +1,11 @@
+C:\Users\TaoTao\Documents\Visual Studio 2012\Projects\MyFirstHomework\Task5\bin\Debug\Task5.exe.config
+C:\Users\TaoTao\Documents\Visual Studio 2012\Projects\MyFirstHomework\Task5\bin\Debug\Task5.exe
+C:\Users\TaoTao\Documents\Visual Studio 2012\Projects\MyFirstHomework\Task5\bin\Debug\Task5.pdb
+C:\Users\TaoTao\Documents\Visual Studio 2012\Projects\MyFirstHomework\Task5\obj\Debug\Task5.exe
+C:\Users\TaoTao\Documents\Visual Studio 2012\Projects\MyFirstHomework\Task5\obj\Debug\Task5.pdb
+C:\Users\TaoTao\Documents\Visual Studio 2012\Projects\MyFirstHomework\Task6\bin\Debug\Task5.exe.config
+C:\Users\TaoTao\Documents\Visual Studio 2012\Projects\MyFirstHomework\Task6\obj\Debug\Task5.exe
+C:\Users\TaoTao\Documents\Visual Studio 2012\Projects\MyFirstHomework\Task6\obj\Debug\Task5.pdb
+D:\Documents\BI\Telerik\Trash\Task6\bin\Debug\Task5.exe.config
+D:\Documents\BI\Telerik\Trash\Task6\obj\Debug\Task5.exe
+D:\Documents\BI\Telerik\Trash\Task6\obj\Debug\Task5.pdb

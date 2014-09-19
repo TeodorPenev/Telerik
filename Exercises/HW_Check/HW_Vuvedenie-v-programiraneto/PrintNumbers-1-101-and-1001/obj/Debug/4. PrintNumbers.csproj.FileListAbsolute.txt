@@ -1,0 +1,9 @@
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\PrintNumbers-1-101-and-1001\bin\Debug\PrintNumbers-1-101-and-1001.exe.config
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\PrintNumbers-1-101-and-1001\obj\Debug\PrintNumbers-1-101-and-1001.exe
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\PrintNumbers-1-101-and-1001\obj\Debug\PrintNumbers-1-101-and-1001.pdb
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\PrintNumbers-1-101-and-1001\bin\Debug\PrintNumbers-1-101-and-1001.exe
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\PrintNumbers-1-101-and-1001\bin\Debug\PrintNumbers-1-101-and-1001.pdb
+C:\Users\Ceci\Documents\Visual Studio 2012\Projects\Studying\Intro-Programming-Homework\PrintNumbers-1-101-and-1001\obj\Debug\4. PrintNumbers.csprojResolveAssemblyReference.cache
+D:\Documents\BI\Telerik\Trash\HW_Vuvedenie-v-programiraneto\PrintNumbers-1-101-and-1001\bin\Debug\PrintNumbers-1-101-and-1001.exe.config
+D:\Documents\BI\Telerik\Trash\HW_Vuvedenie-v-programiraneto\PrintNumbers-1-101-and-1001\obj\Debug\PrintNumbers-1-101-and-1001.exe
+D:\Documents\BI\Telerik\Trash\HW_Vuvedenie-v-programiraneto\PrintNumbers-1-101-and-1001\obj\Debug\PrintNumbers-1-101-and-1001.pdb
