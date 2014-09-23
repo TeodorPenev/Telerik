@@ -1,8 +1,0 @@
-import java.util.Scanner;
-
-
-public class LongestOddEvenSequence {
-public static void main(String[] args) {
-	Scanner input = new Scanner(System.in);
-	String inputStr = input.nextLine().replaceAll("\\s+","");
-}
